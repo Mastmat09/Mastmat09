@@ -8,7 +8,6 @@ I am a french Web Developer, I get my degree in 2010.
 - 👯 I’m looking to collaborate on others projects found on Github
 - 🤔 Later I am going to learn Native React JS
 - 💬 Ask me about ...
-- 📫 How to reach me: www.webolmes.fr
 - 😄 My drone Website photography: www.dronefutur.fr
 - ⚡ others stuff and information are coming here later
 
